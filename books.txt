@@ -1,0 +1,32 @@
+1,A Thousand Splendid Sun,Khaled Hosseini,22/05/2007,200,800
+2,One Hundred Years of Solitude,Gabriel Garcia Marquez,21/03/1967,50,300
+3,Where the Crawdads Sing,Delia Owens,14/08/2018,23,900
+4,Celestial Bodies,Jokha Alharthi,09/08/2010,14,900
+5,Charlotte’s Web,E B White,16/10/1952,22,900
+6,The Heart of the Matter,Graham Greene,04/09/1948,12,670
+7,Silent Patient,Alex Michaelides,05/02/2019,10,200
+8,Harry Potter,J. K. Rowling,14/06/1997,10,230
+9,Ulysses,James Joyce,09/12/1922,12,600
+10,Hamlet,William Shakespeare,10/06/1603,32,1200
+11,Right Under Our Nose,R. Giridharan,05/11/2020,30,500
+12,When Breath Becomes Air,Paul Kalanithi,12/01/2016,50,1000
+13,The Phantom Tollbooth,Norton Juster,02/02/1961,17,430
+14,Fear of Flying,Erica Jong,04/04/1973,40,450
+15,The Adventures of Tom Sawyer,Mark Twain,10/06/1876,20,1200
+16,In the Heart of the Sea,Nathaniel Philbrick,08/05/2000,20,600
+17,Mind-Master,Viswanathan Anand,08/12/2019,15,650
+18,Alchemist,Paul Coelho,02/01/1998,50,150
+19,Cheque book,Vasdev Mohi,09/11/2012,50,1090
+20,Lolita,Vladimir Nabokov,08/12/1955,40,1000
+21,The Overstory,Richard Powers,02/01/2018,32,900
+22,In Search of Lost Time,Marcel Proust,05/03/1913,25,800
+23,War and Peace,Leo Tolstoy,18/09/1867,2,400
+24,Vahana Masterclass,Alfredo Covelli,03/03/2020,18,700
+25,Letting Go,Philip Roth,31/09/2012,15,900
+26,Educated,Tara Westover,07/09/2018,12,450
+27,Encyclopedia Brown Boy Detective,Donald J.Sobol,06/09/1963,12,890
+28,Little Women,Louisa May Alcott,01/08/1868,8,2200
+29,The Great Gatsby,F Scott Fitzgerald,09/07/1925,2,900
+30,The Handmaid's Tale,Margaret Atwood,09/06/1985,1,300
+31,Frozen,John George,12/12/1912,32,450
+32,Wealth,Franklin,12/09/1675,45,320
